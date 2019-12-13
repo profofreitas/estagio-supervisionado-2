@@ -1,0 +1,83 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% 
+\usepackage[a4paper,left=3.0cm,right=2.0cm,top=3.0cm]{geometry}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+  \begin{titlepage}
+    \begin{center}
+      {\large INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA } \\[0.2cm]
+      {\large CAMPUS TERESINA CENTRAL} \\[0.2cm]
+      {\large DEPARTAMENTO DE FORMAÇÃO DE PROFESSORES} \\[0.2cm]
+      {\large CURSO DE LICENCIATURA EM FÍSICA} \\[0.2cm]
+      {\large DISCIPLINA: ESTÁGIO SUPERVISIONADO II – 100H} \\[0.2cm]
+      {\large PROFESSORA: VILANI VASCONCELOS} \\[5.0cm]
+
+      RELATO DA EXPERIÊNCIA \\[0.5cm]
+      ESCOLA CAMPO DE ESTÁGIO ESCOLA MUNICIPAL AMBIENTAL 15 DE OUTUBRO\\[2.0cm]
+    \end{center}
+    
+    \begin{flushright}
+      Acadêmico(a): Francisco das Chagas Alves Freitas$^{1}$ \\[5.0cm]
+    \end{flushright}
+      
+    \begin{center}
+      TERESINA/PIAUÍ \\
+      2019.2
+    \end{center}
+    
+  \end{titlepage}
+  %   Objetivo do Estágio Supervisionado II, linhas gerais a identificação do estágio, as atividades desenvolvidas, 
+  %   algumas aprendizagens e considerações finais
+  \textbf{Resumo:} A disciplina Estágio Supervisionado II tem por objetivo a vivência do contexto escolar como um todo e da sala 
+  de aula em particular, com vistas a focalizar questões relacionadas a aspectos pedagógicos e ao processo de ensino aprendizagem 
+  da área de formação visando uma prática significativa. O estágio foi realizado na Escola Municipal Ambiental 16 de Outubro 
+  em algumas turmas dos anos finais do ensino fundamental durante o segundo semestre de 2019. Durante o estágio foram realizados 
+  planejamentos de aula e atividades pedagógicas, regência em sala de aula e apoio educacional aos alunos da escola. Durante todo 
+  o período do estágio foi notável a dificuldade em manter o interesse dos alunos e elevar o nível de ensino. Mesmo com todo o apoio
+  dos professores de gestão escolar, fatores externos no que diz respeito à esfera familiar e mesmo a rede de ensino contribuem 
+  para as dificuldades citadas.
+  
+  \textbf{Palavras-chave:} 
+  
+%   Descrever em linhas gerais a identificação do estágio, dos orientadores e supervisores, a carga horária cumprida, o objetivo e a 
+%   justificativa; informações relevantes da escola (identificação, localização, história, relevância desta para a comunidade onde 
+%   está inserida); Apresentar fotos. Apresentar as seções do trabalho.
+
+  \section{Introdução}
+    Como parte complementar da discplina Estágio Supervisionado II, parte das horas (60 horas) foram investidas na prática de regência em
+    sala de aula, realizada na Escola Municipal Ambiental 15 de Outubro, 
+    localizada anteriormente na Av. Duque de Caxias, 3470, no bairro Primavera na cidade de Teresina-PI. Por motivos de reforma na sua 
+    estrutura física, a escola está utilizando o mesmo endereço da Unidade Escolar Governador Miguel Rosa, localizada na Rua Frei Segismundo, 
+    4º Gre, bairro Pirajá. Sob orientação da \textbf{Professora Célia Barros} e supervisão do \textbf{Professor Edilson}
+    
+    Inaugurada em 14 de Outubro de 1983, seu nome é uma homenagem ao dia do professor. Inicialmente funcionava somente com as quatro séries 
+    iniciais do Ensino Fundamental no turno diurno. Em 1994, implantaram a 5ª e 6ª séries e gradativamente foram implantadas a 7ª e 8ª séries. Em 
+    1996 implantou-se o EJA no turno noturno. Em 1993, através do decreto no2404 de 11/08 de 1993 seu nome mudou para Unidade Escolar Ambiental 
+    15 de Outubro. 
+    
+    Em 2008, o Conselho Municipal de Educação através da resolução nº014 de 2008 o funcionamento dos cursos de Ensino 
+    Fundamental do 1o ao 9o ano diurno e EJA do 1o ao 4º o bloco noturno novamente com o nome de Escola Municipal Ambiental 15 de Outubro 
+    homologado por Silvio Mendes de Oliveira Filho através do decreto nº8004 de 28/11/2008. 
+    
+    A escola oferece, além do ensino formal, atividades sócio-educativas. Desde 2010 foi instituido o programa Mais Educação. A escola 
+    fundamenta-se numa gestão compartilhada composta por dois diretores, dois pedagogos, corpo administrativo, corpo docente, corpo discente e a 
+    comunidade. O processo de escolha dos gestores é realizado através de eleição direta com voto universal de maioria simples para um mandato 
+    atualmente de três anos.
+    
+    
+  \section{As Atividades Desenvolvidas}
+  
+  \section{Algumas Aprendizagens}
+
+  \section{Considerações Finais}
+  
+  \section{Referências}
+  
+    \begin{itemize}
+     \item 
+    \end{itemize}
+\end{document}
